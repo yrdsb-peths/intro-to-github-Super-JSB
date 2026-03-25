@@ -4,8 +4,9 @@ public class Student {
 
 public class Student {
     String firstName;
-    String
+    String lastName;
     int age;
     // i love coding but it's difficult ><;
+    String grade;
 }
 
