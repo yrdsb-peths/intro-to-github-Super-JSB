@@ -1,0 +1,13 @@
+
+public class NothingImportant()
+{
+    private int x;
+    private int y;
+    private String word;
+    
+    public NothingImportant(String theWord, int X, int Y)
+    {
+        //hello from the other side~~~
+        //
+    }
+}
